@@ -114,7 +114,7 @@ A boa documentação envolve fornecer informações claras e úteis sobre o cód
 #### Operação de Refatoração:
 - Extrair Comentário: Transforma comentários em documentação formal e clara, quando necessário.
 
-## Prátca
+## Prática
 
 ### Pré-requisitos
 
